@@ -2,6 +2,13 @@
   "version": 1,
   "rules": [
     {
+      "domain_suffix": [
+        ".ddyb.cc",
+        ".dybcloud.cn",
+        ".mushroomtrack.com"
+      ]
+    },
+    {
       "ip_cidr": [
         "101.32.208.229/24",
         "8.218.1.244/24",
